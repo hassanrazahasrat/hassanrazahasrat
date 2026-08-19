@@ -1,22 +1,53 @@
-# 💫 About Me:
-As a software engineer with over 7 years of experience in the industry, I have honed my skills in PHP, Node.JS, Python, React Native and Flutter and have a passion for delivering high-quality, efficient solutions for my clients. Throughout my career, I have demonstrated my ability to work both independently and as part of a team, and I am committed to staying up-to-date with the latest developments and trends in my field.<br><br>In my current role, I have been responsible for developing and maintaining high quality product, and I am eager to bring my experience and expertise to new challenges and opportunities. I am a proactive and dedicated professional who is committed to delivering the best possible outcomes for my clients.<br><br>When I'm not working, I enjoy traveling, spending time with my family and friends. I am always looking for ways to further my knowledge and grow my network.<br><br>If you're looking for a reliable and experienced software engineer, I'd love to connect and explore opportunities to work together. Feel free to reach out to learn more about my experience and skills.
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/wordmark?username=hassanrazahasrat&theme=github-dark&label=Hassan%20Raza%20Hasrat" width="100%" alt="Hassan Raza Hasrat" />
+</p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=hassanrazahasrat&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=hassanrazahasrat&theme=github-dark&mode=dark" width="100%" alt="Hassan Raza Hasrat — profile" />
+  </picture>
+</p>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hassanrazahasrat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hassanrazahasrat&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanrazahasrat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center"><a href="https://github.com/hassanrazahasrat">GitHub</a> &nbsp;·&nbsp; <a href="https://hassanrazahasrat.com">Website</a> &nbsp;·&nbsp; <a href="https://x.com/hasanrazahasrat">X</a></p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/about?username=hassanrazahasrat&theme=github-dark" alt="hassanrazahasrat about visual" />
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=hassanrazahasrat&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=hassanrazahasrat&theme=github-dark" alt="hassanrazahasrat stack visual" />
+</p>
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hassanrazahasrat) 
+## Signal
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=hassanrazahasrat&theme=github-dark" width="100%" alt="1 stars across 11 repositories" />
+</p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=hassanrazahasrat&theme=github-dark" width="100%" alt="Language stack" />
+</p>
+
+## Work
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=hassanrazahasrat&theme=github-dark" width="100%" alt="Pinned projects" />
+</p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=hassanrazahasrat&theme=github-dark" alt="hassanrazahasrat social visual" />
+</p>
+
+## Profile scan
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/system-scan?username=hassanrazahasrat&theme=github-dark" width="100%" alt="ASCII profile scan" />
+</p>
+
+<hr />
+
+<p align="center">
+  <sub>Hassan Raza Hasrat · every panel is a single <code>&lt;img&gt;</code> of live GitHub data ·
+  built with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
+</p>
